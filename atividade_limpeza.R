@@ -47,4 +47,4 @@ southern_africa <- southern_africa %>% filter(new_cases>=0)
 
 southern_africa <- na.omit(southern_africa)
 
-View(southern_africa) # visualizando os dados sem os missing values (NAs)
+View(southern_africa) # visualizando os dados sem os missing values (NAs).
